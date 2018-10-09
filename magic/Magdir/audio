@@ -647,6 +647,8 @@
 # URL:  http://filext.com/detaillist.php?extdetail=AMR
 # From: Russell Coker <russell@coker.com.au>
 0	string	#!AMR		Adaptive Multi-Rate Codec (GSM telephony)
+!:mime	audio/amr
+!:ext  amr
 
 # Type: SuperCollider 3 Synth Definition File Format
 # From: Mario Lang <mlang@debian.org>
